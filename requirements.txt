@@ -1,0 +1,5 @@
+aiosmtpd==1.4.6
+httpx==0.28.1
+aiosmtplib==4.0.1
+html2text==2025.4.15
+aiohttp==3.12.13
